@@ -1,0 +1,8 @@
+name: flutter_gradle_plugin_migration_script
+description: Support migrate your app to new Plugin DSL syntax
+version: 0.0.1
+repository: 'https://github.com/iamgirya/flutter-gradle-plugin-migration-script'
+homepage: 'https://github.com/iamgirya/flutter-gradle-plugin-migration-script'
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
